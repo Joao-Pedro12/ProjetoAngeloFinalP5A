@@ -1,6 +1,6 @@
 # 🔪 P5AutomationExerciseFinal
 
-Projeto de testes automatizados utilizando **Cypress** com **BDD (Cucumber)** e **Esbuild**, desenvolvido como exercício prático da disciplina de Testes de Software.
+Projeto de testes automatizados utilizando **Cypress** com **BDD (Cucumber)** e **Esbuild**, desenvolvido como exercício prático da disciplina de QA do professor Angelo.
 
 ## 🚀 Tecnologias utilizadas
 
